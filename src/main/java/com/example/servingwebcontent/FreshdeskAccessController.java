@@ -19,8 +19,8 @@ public class FreshdeskAccessController{
 
     private static Log log = LogFactory.getLog(FreshdeskAccessController.class);
     private static String FRESHDESK_LOGIN_URL;
-    private static String BASE_FRESHDESK_URL = "https://impact-helpdesk.freshdesk.com"; // N.B: Replace with own base url
-    private static String SHARED_KEY = "THIS_IS_YOU_SIMPLE_SSO_SHARED_KEY";  // N.B: Replace with own shared key
+    private static String BASE_FRESHDESK_URL = "https://myhelpdesk.freshdesk.com"; // N.B: Replace with own base url
+    private static String SHARED_KEY = "THIS_IS_YOUR_SIMPLE_SSO_SHARED_KEY";  // N.B: Replace with own shared key
     private final static String TEST_CONTACT_NAME = "John1234";
     private final static String TEST_CONTACT_EMAIL = "john1234@mail.com";
 
