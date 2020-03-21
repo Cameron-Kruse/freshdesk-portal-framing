@@ -8,3 +8,5 @@ Replace the following fields with their appropriate values:
  - BASE_FRESHDESK_URL
  - SHARED_KEY
  
+ 
+P.S. App starts on Port 8080.
