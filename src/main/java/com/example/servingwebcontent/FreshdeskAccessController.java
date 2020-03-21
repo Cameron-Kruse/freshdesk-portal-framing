@@ -31,7 +31,7 @@ public class FreshdeskAccessController{
 
     /*
      *  Configured on Freshdesk as Simple SSO with login url as:
-     *   {{baseurl}}//ssofreshdesk.ihtml e.g. http://localhost:8080/ssofreshdesk.ihtml
+     *   {{baseurl}}/ssofreshdesk.ihtml e.g. http://localhost:8080/ssofreshdesk.ihtml
      */
     @RequestMapping("/**/ssofreshdesk.ihtml")
     public RedirectView ssofreshdesk(){
