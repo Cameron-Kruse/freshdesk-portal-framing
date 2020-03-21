@@ -10,8 +10,7 @@ import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 
 /*
-* Owner: Impact 2020
-* This is a sample of our SSO configuration for use with our in-site portal iframing.
+* Sample SSO configuration for use with in-site portal iframing.
 * */
 
 @Controller
